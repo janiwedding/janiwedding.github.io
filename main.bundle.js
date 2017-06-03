@@ -107,7 +107,7 @@ var approutes = [
     { path: 'about', component: __WEBPACK_IMPORTED_MODULE_6__pages_about_about_component__["a" /* AboutComponent */] },
     { path: 'portfolio', component: __WEBPACK_IMPORTED_MODULE_7__pages_portfolio_portfolio_component__["a" /* PortfolioComponent */] },
     { path: 'contact', component: __WEBPACK_IMPORTED_MODULE_8__pages_contact_contact_component__["a" /* ContactComponent */] },
-    { path: '', redirectTo: '/about', pathMatch: 'full' },
+    { path: '', redirectTo: '/portfolio', pathMatch: 'full' },
     { path: '**', component: __WEBPACK_IMPORTED_MODULE_9__not_found_component__["a" /* PageNotFoundComponent */] },
 ];
 var AppModule = (function () {
